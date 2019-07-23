@@ -1,5 +1,6 @@
 class Panle(object):
-    pass
+    def __init__(self):
+        self.name = "打飞机"
 
 def main():
     pass
