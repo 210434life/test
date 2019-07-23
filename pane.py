@@ -1,3 +1,6 @@
+class Panle(object):
+    pass
+
 def main():
     pass
 
